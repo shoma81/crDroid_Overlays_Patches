@@ -1,5 +1,5 @@
 # Module
-- crDroid Android Patches
+crDroid Android Patches
 ## Description
 
 - Back_kill_timeout change to 350ms (default 2000 ms)
