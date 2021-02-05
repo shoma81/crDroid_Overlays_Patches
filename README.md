@@ -2,7 +2,7 @@
 crDroid Android Patches
 ## Description
 
-- Back_kill_timeout change to 350ms (default 2000 ms)
-- Low_battery_level led notification change to 5% (default 15)
-- Keyguard_max_notification_count change to 10 (default 5)
-- Disable safe screenshots
+- The count of notification icons displayed on the lock screen has been increased from 5 to 10.
+- Reduced low_battery_level threshold for LED notification indicator from 15 to 5%
+- Disable safe screenshots in Banking apps and Incognito mode in the browsers
+- For buttons. Reduced back_kill_timeout millis. From 2000 ms to 350ms. A habit back with CyanogenMod 😁
