@@ -1,5 +1,8 @@
 # Module
 crDroid Android Patches
+
+## Disable this module before updating
+
 ## Description
 
 - The count of notification icons displayed on the lock screen has been increased from 5 to 10.
