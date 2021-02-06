@@ -4,7 +4,6 @@ crDroid Android Patches
 ## Disable this module before updating
 
 ## Description
-
 - The count of notification icons displayed on the lock screen has been increased from 5 to 10.
 - Reduced low_battery_level threshold for LED notification indicator from 15 to 5%
 - Disable safe screenshots in Banking apps and Incognito mode in the browsers
