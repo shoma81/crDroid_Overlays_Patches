@@ -9,3 +9,4 @@ crDroid Android Patches
 - Disable safe screenshots in Banking apps and Incognito mode in the browsers
 - Disable apps downgrade prohibition 
 - For buttons. Reduced back_kill_timeout millis. From 2000 ms to 350ms. A habit back with CyanogenMod 😁
+- Gestural Navbar Indicator takes on the accent color of your chosen style in Main Settings
