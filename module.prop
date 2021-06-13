@@ -1,7 +1,7 @@
 id=ao
 name=crDroid Android Patches
-version=2021.04.14
-versionCode=20210414
+version=2021.05.09
+versionCode=20210509
 author=Pycm
 description=The count of notification icons displayed on the lock screen has been increased from 5 to 10.
 Reduced low_battery_level threshold for LED notification indicator from 15 to 5%
