@@ -117,7 +117,7 @@ print_modname() {
   ui_print ""
   ui_print "*   crDroid Android Patch      *"
   ui_print ""
-  ui_print "*     build 2021.05.09         *"
+  ui_print "*     build 2021.06.17         *"
   ui_print ""
   ui_print "********************************"
 }
